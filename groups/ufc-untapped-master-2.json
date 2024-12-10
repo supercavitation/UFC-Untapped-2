@@ -8,27 +8,11 @@
         ]
     },
     {
-        "speciesId": "altaria_mega",
-        "fastMove": "DRAGON_BREATH",
-        "chargedMoves": [
-            "MOONBLAST",
-            "SKY_ATTACK"
-        ]
-    },
-    {
         "speciesId": "annihilape",
         "fastMove": "COUNTER",
         "chargedMoves": [
-            "ICE_PUNCH",
-            "SHADOW_BALL"
-        ]
-    },
-    {
-        "speciesId": "armarouge",
-        "fastMove": "INCINERATE",
-        "chargedMoves": [
-            "PSYSHOCK",
-            "FLAME_CHARGE"
+            "RAGE_FIST",
+            "CLOSE_COMBAT"
         ]
     },
     {
@@ -72,35 +56,27 @@
         ]
     },
     {
-        "speciesId": "conkeldurr",
-        "fastMove": "COUNTER",
+        "speciesId": "dragapult",
+        "fastMove": "ASTONISH",
         "chargedMoves": [
-            "BRUTAL_SWING",
-            "DYNAMIC_PUNCH"
+            "BREAKING_SWIPE",
+            "SHADOW_BALL"
         ]
     },
     {
-        "speciesId": "cresselia",
-        "fastMove": "PSYCHO_CUT",
+        "speciesId": "entei",
+        "fastMove": "FIRE_SPIN",
         "chargedMoves": [
-            "GRASS_KNOT",
-            "MOONBLAST"
+            "FLAME_CHARGE",
+            "SCORCHING_SANDS"
         ]
     },
     {
         "speciesId": "excadrill",
-        "fastMove": "MUD_SHOT",
+        "fastMove": "MUD_SLAP",
         "chargedMoves": [
             "DRILL_RUN",
             "ROCK_SLIDE"
-        ]
-    },
-    {
-        "speciesId": "feraligatr",
-        "fastMove": "SHADOW_CLAW",
-        "chargedMoves": [
-            "HYDRO_CANNON",
-            "ICE_BEAM"
         ]
     },
     {
@@ -109,6 +85,14 @@
         "chargedMoves": [
             "DISARMING_VOICE",
             "MOONBLAST"
+        ]
+    },
+    {
+        "speciesId": "garchomp",
+        "fastMove": "DRAGON_TAIL",
+        "chargedMoves": [
+            "SAND_TOMB",
+            "OUTRAGE"
         ]
     },
     {
@@ -136,16 +120,8 @@
         ]
     },
     {
-        "speciesId": "genesect_shock",
-        "fastMove": "FURY_CUTTER",
-        "chargedMoves": [
-            "MAGNET_BOMB",
-            "TECHNO_BLAST_SHOCK"
-        ]
-    },
-    {
         "speciesId": "gholdengo",
-        "fastMove": "HEX",
+        "fastMove": "ASTONISH",
         "chargedMoves": [
             "SHADOW_BALL",
             "FOCUS_BLAST"
@@ -164,7 +140,7 @@
         "fastMove": "DRAGON_BREATH",
         "chargedMoves": [
             "AQUA_TAIL",
-            "DRACO_METEOR"
+            "THUNDER_PUNCH"
         ]
     },
     {
@@ -184,19 +160,19 @@
         ]
     },
     {
-        "speciesId": "kommo_o",
-        "fastMove": "DRAGON_TAIL",
-        "chargedMoves": [
-            "CLOSE_COMBAT",
-            "DRAGON_CLAW"
-        ]
-    },
-    {
         "speciesId": "latios",
         "fastMove": "DRAGON_BREATH",
         "chargedMoves": [
             "DRAGON_CLAW",
             "LUSTER_PURGE"
+        ]
+    },
+    {
+        "speciesId": "lucario_mega",
+        "fastMove": "FORCE_PALM",
+        "chargedMoves": [
+            "BLAZE_KICK",
+            "CLOSE_COMBAT"
         ]
     },
     {
@@ -216,27 +192,27 @@
         ]
     },
     {
+        "speciesId": "moltres_galarian",
+        "fastMove": "SUCKER_PUNCH",
+        "chargedMoves": [
+            "ANCIENT_POWER",
+            "BRAVE_BIRD"
+        ]
+    },
+    {
         "speciesId": "primarina",
         "fastMove": "CHARM",
         "chargedMoves": [
             "DISARMING_VOICE",
-            "HYDRO_PUMP"
+            "HYDRO_CANNON"
         ]
     },
     {
         "speciesId": "raikou",
-        "fastMove": "VOLT_SWITCH",
+        "fastMove": "THUNDER_SHOCK",
         "chargedMoves": [
             "WILD_CHARGE",
             "SHADOW_BALL"
-        ]
-    },
-    {
-        "speciesId": "salamence",
-        "fastMove": "DRAGON_TAIL",
-        "chargedMoves": [
-            "OUTRAGE",
-            "FLY"
         ]
     },
     {
@@ -256,14 +232,6 @@
         ]
     },
     {
-        "speciesId": "snorlax",
-        "fastMove": "LICK",
-        "chargedMoves": [
-            "BODY_SLAM",
-            "SUPER_POWER"
-        ]
-    },
-    {
         "speciesId": "swampert",
         "fastMove": "MUD_SHOT",
         "chargedMoves": [
@@ -272,26 +240,10 @@
         ]
     },
     {
-        "speciesId": "sylveon",
-        "fastMove": "QUICK_ATTACK",
-        "chargedMoves": [
-            "MOONBLAST",
-            "PSYSHOCK"
-        ]
-    },
-    {
         "speciesId": "tapu_bulu",
         "fastMove": "BULLET_SEED",
         "chargedMoves": [
             "GRASS_KNOT",
-            "NATURES_MADNESS"
-        ]
-    },
-    {
-        "speciesId": "tapu_fini",
-        "fastMove": "WATER_GUN",
-        "chargedMoves": [
-            "SURF",
             "NATURES_MADNESS"
         ]
     },
@@ -320,18 +272,10 @@
         ]
     },
     {
-        "speciesId": "togekiss",
-        "fastMove": "CHARM",
-        "chargedMoves": [
-            "ANCIENT_POWER",
-            "AURA_SPHERE"
-        ]
-    },
-    {
         "speciesId": "ursaluna",
         "fastMove": "TACKLE",
         "chargedMoves": [
-            "ICE_PUNCH",
+            "SWIFT",
             "HIGH_HORSEPOWER"
         ]
     },
@@ -345,7 +289,7 @@
     },
     {
         "speciesId": "zamazenta_hero",
-        "fastMove": "SNARL",
+        "fastMove": "QUICK_ATTACK",
         "chargedMoves": [
             "CLOSE_COMBAT",
             "MOONBLAST"
